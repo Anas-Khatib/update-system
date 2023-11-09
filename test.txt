@@ -1,1 +1,6 @@
-This is test File
+git status
+git add (file name)
+git commit -m " "
+git push -u origin main
+
+git restore --staged (file name) // to unstaged 
